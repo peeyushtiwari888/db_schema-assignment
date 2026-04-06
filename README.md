@@ -25,7 +25,7 @@ Initially, orders are managed through Instagram DMs and WhatsApp, but as the bus
 
 ![ER Diagram](./diagram/screenshot.png)
 
-> 📌 Note: Make sure your screenshot file is placed inside the `/diagram` folder with the name **er-diagram.png**
+> 📌 Note: Make sure your screenshot file is placed inside the `/diagram` folder with the name **screenshot.png**
 
 ---
 
@@ -187,7 +187,7 @@ This is not a typical e-commerce system. The design carefully considers:
 /project-root
 │
 ├── /diagram
-│   └── er-diagram.png
+│   └── screenshot.png
 │
 ├── README.md
 ```
