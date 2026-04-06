@@ -23,9 +23,7 @@ Initially, orders are managed through Instagram DMs and WhatsApp, but as the bus
 
 ## 🖼️ ER Diagram Screenshot
 
-![ER Diagram](./diagram/screenshot.png)
-
-> 📌 Note: Make sure your screenshot file is placed inside the `/diagram` folder with the name **screenshot.png**
+![ER Diagram](screenshot.png)
 
 ---
 
