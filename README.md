@@ -23,7 +23,7 @@ Initially, orders are managed through Instagram DMs and WhatsApp, but as the bus
 
 ## 🖼️ ER Diagram Screenshot
 
-![ER Diagram](screenshot.png)
+![ER Diagram](Screenshot.png)
 
 ---
 
