@@ -21,6 +21,14 @@ Initially, orders are managed through Instagram DMs and WhatsApp, but as the bus
 
 ---
 
+## 🖼️ ER Diagram Screenshot
+
+![ER Diagram](./diagram/er-diagram.png)
+
+> 📌 Note: Make sure your screenshot file is placed inside the `/diagram` folder with the name **er-diagram.png**
+
+---
+
 ## 🎯 Objectives
 
 The goal of this database design is to:
